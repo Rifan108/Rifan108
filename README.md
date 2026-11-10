@@ -6,10 +6,14 @@ I build things where software meets the real world: cross-platform mobile apps, 
 
 🚀 What I've built
 NeuroMesh: internet-independent disaster telemetry using ESP32 + LoRa, a 4-model ML pipeline, and a LangGraph multi-agent system that generates crisis reports in under 90 seconds
+
 AI-Enabled Local Development Planner (LSGI): AI decision support for Panchayats to prioritize sectors and allocate budgets using real socio-economic data (1st Place, Kaushal 26; Runner-Up, SIH Internal Round)
+
 CareerBridge: AI job matching, skill-gap analysis and interview prep for Indian youth, built with Next.js 15 + FastAPI (Best Theme Award, NEXATHON, among 63 teams)
+
 Decentralized Voting System: RFID authentication + Ethereum smart contracts for tamper-proof elections (Best Innovation, NITTE Udbhava)
 Arogya Mitra: wearable IoT health monitoring with instant caregiver alerts (Runner-Up, Chakravyuha)
+
 Smart Bijli: ESP32 energy analytics with a cloud dashboard (Top 30, KTech Summit)
 Food delivery app: production Flutter + Firebase app with customer and admin portals, built during my internship at Pace Wisdom
 🛠️ Tech stack
