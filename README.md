@@ -16,8 +16,8 @@ Arogya Mitra: wearable IoT health monitoring with instant caregiver alerts (Runn
 
 Smart Bijli: ESP32 energy analytics with a cloud dashboard (Top 30, KTech Summit)
 Food delivery app: production Flutter + Firebase app with customer and admin portals, built during my internship at Pace Wisdom
-🛠️ Tech stack
 
+🛠️ Tech stack
 Mobile: Flutter, Dart, Android SDK
 Backend: Firebase, Node.js, FastAPI, REST APIs
 Languages: Python, Java, C/C++, SQL, Solidity, TypeScript
@@ -30,4 +30,4 @@ CS50x (Harvard) · CyberSecurity and Privacy (NPTEL, IIT Madras) · Cybersecurit
 
 📫 Connect
 
-LinkedIn · rifan3737mtr@gmail.com
+LinkedIn: www.linkedin.com/in/mohammed-nawaz-rifan · rifan3737mtr@gmail.com
